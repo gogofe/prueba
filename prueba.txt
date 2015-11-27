@@ -1,1 +1,2 @@
-Hola como estas. Mod en remoto. Mod en remoto2
+Hola como estas. Mod en remoto
+. Mod en local
